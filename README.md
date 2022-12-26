@@ -255,7 +255,7 @@ The `sudo` command is configured through a file located at /etc/sudoers.
 
 # Files of Debian 🧰
 
-[MONTPOINT](https://github.com/Nellaoui/Born2beroot/blob/main/README.md#lsblk)
+[MONTPOINT](https://github.com/Nellaoui/Born2beroot/blob/main/README.md#mountpoint)
 
 ## /etc/group Columns
 
